@@ -14,4 +14,5 @@ int main(int argc, char** argv)
     cout<<"Hello World!"<<endl;
     Parent base;
     base.SetInt(1);
+    
 }
