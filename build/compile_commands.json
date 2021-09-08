@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/Workdir/CS/ComputerSystem/VSC/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE    -g   -o CMakeFiles\\FirstCMake.dir\\src\\base\\Parent.cpp.obj -c E:\\Workdir\\CS\\ComputerSystem\\VSC\\src\\base\\Parent.cpp",
+  "file": "E:/Workdir/CS/ComputerSystem/VSC/src/base/Parent.cpp"
+},
+{
+  "directory": "E:/Workdir/CS/ComputerSystem/VSC/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-W\\mingw64\\bin\\X86_64~2.EXE    -g   -o CMakeFiles\\FirstCMake.dir\\src\\main.cpp.obj -c E:\\Workdir\\CS\\ComputerSystem\\VSC\\src\\main.cpp",
+  "file": "E:/Workdir/CS/ComputerSystem/VSC/src/main.cpp"
+}
+]
