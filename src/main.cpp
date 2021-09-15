@@ -11,7 +11,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-    cout<<"Hello World!"<<endl; // FirstBranch
+    cout<<"Hello World!"<<endl; // Second Branch
     Parent base;
     base.SetInt(1);
 }
